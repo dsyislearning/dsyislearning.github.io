@@ -4,7 +4,6 @@ title: T1L1 Question types, essay structure
 date: 2023-01-02 19:41 +0800
 categories: [IELST, Writing]
 tags: [IELST, Writing Task1]
-math: true
 ---
 
 # IELTS writing task 1 Lesson 1
